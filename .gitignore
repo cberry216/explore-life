@@ -1,0 +1,9 @@
+# Database
+db/*.sqlite*
+
+# Build
+build/*.tsv
+
+# VSCode
+.vscode*
+.dist
